@@ -50,8 +50,8 @@
 	],	
 	
 	"upgrades":[
-		{"id":11, "name":"8 Tactical Marines with Bolters",				"pts":0},
-		{"id":12, "name":"8 Tactical Marines with Assault Weapons",			"pts":0},
+		{"id":11, "name":"8 Tactical Squads",						"pts":0},
+		{"id":12, "name":"8 Despoiler Squads",						"pts":0},
 		{"id":13, "name":"Terminators",							"pts":75},
 		{"id":14, "name":"Dreadnought: Legion Dreadnought",				"pts":50},
 		{"id":15, "name":"Dreadnought: Legion Contemptor Dreadnought",			"pts":60},
