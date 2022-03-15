@@ -85,8 +85,8 @@
 		{"id":38, "name":"Breacher Marine",						"pts":0},
 		{"id":39, "name":"Drop Pods",							"pts":0},
 		
-		{"id":40, "name":"Land Raider Phobos",						"pts":80},
-		{"id":41, "name":"Land Raider Proteus",						"pts":80},
+		{"id":40, "name":"Land Raider Phobos",						"pts":75},
+		{"id":41, "name":"Land Raider Proteus",						"pts":75},
 		{"id":42, "name":"4 Medusas",							"pts":250},
 		{"id":43, "name":"4 Whirlwinds",						"pts":300},
 		{"id":44, "name":"4 Basilisks",							"pts":325},
