@@ -190,7 +190,7 @@
 		{"max":1, "from":[20,130]},
 		{"max":1, "from":[24]},
 		{"max":1, "from":[31]},
-		{"max":1, "perArmy":true, "from":[99,94]}
+		{"max":1, "perArmy":true, "from":[99,9144]}
 
 
 	]
